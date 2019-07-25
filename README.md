@@ -1,3 +1,5 @@
+moved to: https://github.com/fmigneault/dockers
+
 # docker-opencv-boost-python
 
 Docker image setup.
